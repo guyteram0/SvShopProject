@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SvShopProject/static/css/main.815b5312.chunk.css",
+    "main.js": "/SvShopProject/static/js/main.c20189fe.chunk.js",
+    "main.js.map": "/SvShopProject/static/js/main.c20189fe.chunk.js.map",
+    "runtime-main.js": "/SvShopProject/static/js/runtime-main.235e2ccf.js",
+    "runtime-main.js.map": "/SvShopProject/static/js/runtime-main.235e2ccf.js.map",
+    "static/js/2.2e2f44ce.chunk.js": "/SvShopProject/static/js/2.2e2f44ce.chunk.js",
+    "static/js/2.2e2f44ce.chunk.js.map": "/SvShopProject/static/js/2.2e2f44ce.chunk.js.map",
+    "index.html": "/SvShopProject/index.html",
+    "precache-manifest.43ea0e67267718af455a3166e8f37568.js": "/SvShopProject/precache-manifest.43ea0e67267718af455a3166e8f37568.js",
+    "service-worker.js": "/SvShopProject/service-worker.js",
+    "static/css/main.815b5312.chunk.css.map": "/SvShopProject/static/css/main.815b5312.chunk.css.map",
+    "static/js/2.2e2f44ce.chunk.js.LICENSE.txt": "/SvShopProject/static/js/2.2e2f44ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.235e2ccf.js",
+    "static/js/2.2e2f44ce.chunk.js",
+    "static/css/main.815b5312.chunk.css",
+    "static/js/main.c20189fe.chunk.js"
+  ]
+}
